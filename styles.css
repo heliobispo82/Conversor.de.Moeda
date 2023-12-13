@@ -57,6 +57,7 @@ button {
     background-color: RGBA(50, 205, 50, 1);
     font-weight: 700;
     line-height: 3px;
+    cursor: pointer;
 
    
 
