@@ -6,7 +6,7 @@
 <p>
   <img src = "https://github.com/heliobispo82/conversor-de-moeda/blob/master/assets/HTML%20RECORTADO.png?raw=true" width="80px">
   <img src = "https://github.com/heliobispo82/conversor-de-moeda/blob/master/assets/CSS%20RECORTADO.png?raw=true"  width="75px" height="109px">
-  <img src = "https://github.com/heliobispo82/conversor-de-moeda/blob/master/assets/JS%20RECORTADO.png?raw=true"  width="61.8px">
+  <img src = "https://github.com/heliobispo82/conversor-de-moeda/blob/master/assets/JS%20RECORTADO.png?raw=true"  width="73.8px" height="109px">
 </p>
 
 <h2>Vroject View 😎😎</h2>
